@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b06c593f6354af09544dc229197802d/artifacts
+end_time: 1755705300135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b06c593f6354af09544dc229197802d
+run_name: burly-mouse-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755705299907
+status: 3
+tags: []
+user_id: '91861'

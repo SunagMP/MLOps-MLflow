@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97e431ec729f4d4fad85a9531ea59cce/artifacts
+end_time: 1755705460916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97e431ec729f4d4fad85a9531ea59cce
+run_name: able-ram-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755705458155
+status: 3
+tags: []
+user_id: '91861'

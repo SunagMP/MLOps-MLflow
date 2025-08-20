@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d336221f47c74bda85ae0d5991f020a5/artifacts
+end_time: 1755705205266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d336221f47c74bda85ae0d5991f020a5
+run_name: tasteful-fox-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755705204994
+status: 3
+tags: []
+user_id: '91861'

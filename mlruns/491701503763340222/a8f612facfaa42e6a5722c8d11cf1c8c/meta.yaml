@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491701503763340222/a8f612facfaa42e6a5722c8d11cf1c8c/artifacts
+end_time: 1755705675528
+entry_point_name: ''
+experiment_id: '491701503763340222'
+lifecycle_stage: active
+run_id: a8f612facfaa42e6a5722c8d11cf1c8c
+run_name: bemused-robin-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755705674861
+status: 3
+tags: []
+user_id: '91861'
