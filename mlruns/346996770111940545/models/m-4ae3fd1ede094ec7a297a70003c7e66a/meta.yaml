@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-4ae3fd1ede094ec7a297a70003c7e66a/artifacts
+creation_timestamp: 1755712481043
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712489004
+model_id: m-4ae3fd1ede094ec7a297a70003c7e66a
+model_type: null
+name: nebulous-toad-421
+source_run_id: 7b1d0eec71e2433c9c3de35219e23127
+status: 2
+status_message: null

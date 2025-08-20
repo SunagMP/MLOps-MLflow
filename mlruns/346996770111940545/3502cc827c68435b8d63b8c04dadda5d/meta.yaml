@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/3502cc827c68435b8d63b8c04dadda5d/artifacts
+end_time: 1755712562980
+entry_point_name: ''
+experiment_id: '346996770111940545'
+lifecycle_stage: active
+run_id: 3502cc827c68435b8d63b8c04dadda5d
+run_name: monumental-conch-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755712554943
+status: 3
+tags: []
+user_id: '91861'

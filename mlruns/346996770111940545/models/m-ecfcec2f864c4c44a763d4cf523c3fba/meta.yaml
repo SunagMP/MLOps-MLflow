@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-ecfcec2f864c4c44a763d4cf523c3fba/artifacts
+creation_timestamp: 1755712505247
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712512477
+model_id: m-ecfcec2f864c4c44a763d4cf523c3fba
+model_type: null
+name: skillful-kite-869
+source_run_id: 5d2404f49cf54a43b7e92e2d5ef34636
+status: 2
+status_message: null

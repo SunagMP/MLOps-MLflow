@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/5d2404f49cf54a43b7e92e2d5ef34636/artifacts
+end_time: 1755712512506
+entry_point_name: ''
+experiment_id: '346996770111940545'
+lifecycle_stage: active
+run_id: 5d2404f49cf54a43b7e92e2d5ef34636
+run_name: flawless-finch-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755712505068
+status: 3
+tags: []
+user_id: '91861'

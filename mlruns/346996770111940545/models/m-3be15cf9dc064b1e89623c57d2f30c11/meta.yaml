@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-3be15cf9dc064b1e89623c57d2f30c11/artifacts
+creation_timestamp: 1755712531203
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712538942
+model_id: m-3be15cf9dc064b1e89623c57d2f30c11
+model_type: null
+name: overjoyed-ape-769
+source_run_id: 6b6a82a6bedb4a4c90a382fc689f7142
+status: 2
+status_message: null

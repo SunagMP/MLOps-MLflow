@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-cc1c6245b8444edabbcdfb2143944418/artifacts
+creation_timestamp: 1755712472934
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712480807
+model_id: m-cc1c6245b8444edabbcdfb2143944418
+model_type: null
+name: treasured-hawk-157
+source_run_id: 3da049425816458aa9b2b5a823f1ed61
+status: 2
+status_message: null

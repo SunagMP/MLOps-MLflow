@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-7aeb374b0e9c4546b0eb81a21f943684/artifacts
+creation_timestamp: 1755712521088
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712530973
+model_id: m-7aeb374b0e9c4546b0eb81a21f943684
+model_type: null
+name: receptive-koi-968
+source_run_id: 03bae44d4b444f81b97acdc69a3e1090
+status: 2
+status_message: null

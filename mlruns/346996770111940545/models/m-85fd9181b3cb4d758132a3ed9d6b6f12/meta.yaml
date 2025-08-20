@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-85fd9181b3cb4d758132a3ed9d6b6f12/artifacts
+creation_timestamp: 1755712489212
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712496423
+model_id: m-85fd9181b3cb4d758132a3ed9d6b6f12
+model_type: null
+name: receptive-cub-632
+source_run_id: a5e14fb9fb77457eaa19ae78e8860002
+status: 2
+status_message: null

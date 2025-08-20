@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-18d634856ace4a758022d8a999095f0d/artifacts
+creation_timestamp: 1755712547144
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712554910
+model_id: m-18d634856ace4a758022d8a999095f0d
+model_type: null
+name: blushing-ant-582
+source_run_id: aa0f88f496df473d869b02f63f517a50
+status: 2
+status_message: null

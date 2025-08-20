@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/bf826ed5395d44d79f25f7b8f919a4a3/artifacts
+deleted_time: 1755712404767
+end_time: 1755712065389
+entry_point_name: ''
+experiment_id: '346996770111940545'
+lifecycle_stage: deleted
+run_id: bf826ed5395d44d79f25f7b8f919a4a3
+run_name: skillful-shark-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755712065281
+status: 4
+tags: []
+user_id: '91861'

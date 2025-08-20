@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-88e9302b87284390955188fce4594dea/artifacts
+creation_timestamp: 1755712539152
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712546943
+model_id: m-88e9302b87284390955188fce4594dea
+model_type: null
+name: traveling-skink-385
+source_run_id: 6c85a93c25e443b2a48a828ddc7595a5
+status: 2
+status_message: null

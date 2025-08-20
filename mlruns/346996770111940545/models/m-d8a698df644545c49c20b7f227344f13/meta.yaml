@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-d8a698df644545c49c20b7f227344f13/artifacts
+creation_timestamp: 1755712555115
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712562945
+model_id: m-d8a698df644545c49c20b7f227344f13
+model_type: null
+name: tasteful-foal-306
+source_run_id: 3502cc827c68435b8d63b8c04dadda5d
+status: 2
+status_message: null

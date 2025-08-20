@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-f24cb4553b6f40c5b3bb8e66f56d0059/artifacts
+creation_timestamp: 1755712512703
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712520853
+model_id: m-f24cb4553b6f40c5b3bb8e66f56d0059
+model_type: null
+name: luminous-gnat-533
+source_run_id: 4cec0be4e2724415af8590d52d00f4bc
+status: 2
+status_message: null

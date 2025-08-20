@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-9006efa3748c4b8e9a59f5bdff540350/artifacts
+creation_timestamp: 1755712452911
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712472707
+model_id: m-9006efa3748c4b8e9a59f5bdff540350
+model_type: null
+name: enchanting-doe-123
+source_run_id: 416f2d7c3fe44a4abac1ca8c352142cd
+status: 2
+status_message: null

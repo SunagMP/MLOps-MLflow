@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/91861/OneDrive/Desktop/COURSES/MLOps/MLOps-MLflow/mlruns/346996770111940545/models/m-f44ed2d88d564ecbb91f109e4bf96fdb/artifacts
+creation_timestamp: 1755712563071
+experiment_id: '346996770111940545'
+last_updated_timestamp: 1755712570138
+model_id: m-f44ed2d88d564ecbb91f109e4bf96fdb
+model_type: null
+name: random-forest-best-model
+source_run_id: 2c0d096c4cb047a7b6e3c5d987e281c3
+status: 2
+status_message: null
